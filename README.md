@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<p style="transform : rotate(180deg);">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
