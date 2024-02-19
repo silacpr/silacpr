@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p>
-        <img src="https://github.com/silacpr/silacpr/blob/main/svg/bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/silacpr/silacpr/blob/main/svg/top.svg" alt="Github Stats" />
 </p>
 
 <p align="center">
