@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h1 style="background-color:beige"> Hello c'est Sila ! ☕ </h1>
+## $\colorbox{beige}{{\color{white}{Sila's\ Portfolio\ ☕}}}$
 
 <p align="center">
         <img src="https://github.com/silacpr/silacpr/blob/main/svg/bottom.svg" alt="Github Stats" />
