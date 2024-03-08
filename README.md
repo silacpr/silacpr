@@ -12,7 +12,7 @@
 - 🛤 **Parcours :** Réalisation d'Applications : Ingénieurie Logicielle
 - 📧 **Adresse mail :** `sila.capar3@etu.univ-lorraine.fr`
 - 🔗 **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/silacapar/)
-
+<br><br>
 ## Formation 🛤
 
 Le BUT Informatique, en trois ans, forme des professionnels qualifiés pour élaborer et mettre en œuvre des solutions informatiques adaptées aux enjeux de la transformation numérique. Les étudiants acquièrent des compétences en développement web, systèmes et réseaux, bases de données et gestion de projets, avec un focus sur la communication et le travail d'équipe. 
@@ -26,7 +26,7 @@ L'IUT Nancy Charlemagne propose 2 parcours spécialisés dès la deuxième anné
 J'ai choisis le parcours RA avec option IL car je souhaite poursuivre mes études après l'obtension de mon diplôme. Ce parcours a été construit en collaboration avec d'autres établissements comme par exemple Telecom Nancy. Nous avons eu des cours supplémentaires pour nous préparer aux grandes écoles comme par exemple des cours de mathématiques et nous avons été initier à l'IA.
 
 Mon expérience au sein du B.U.T. Informatique a été très enrichissante et diversifiée. Ce n'était pas uniquement centré sur le développement; j'ai pu explorer plusieurs domaines comme le réseau, les bases de données, ainsi que le développement web et mobile. Les enseignements ne se limitaient pas à la pratique, puisque j'ai aussi bénéficié de cours théoriques en logique, cryptographie et mathématiques, entre autres. Cette formation complète m'a permis d'acquérir une vision holistique de l'informatique et de développer une solide base de connaissances dans divers aspects technologiques.
-  
+<br><br>
 
 ## Compétences 🎓
 
