@@ -1,8 +1,9 @@
 <p>
         <img src="https://github.com/silacpr/silacpr/blob/main/svg/top.svg" alt="Github Stats" />
 </p>
-<h1 align="center" style="color: beige;">Mon Portfolio</h1>
 
+<h1 align="center" style="color: beige;">Mon Portfolio</h1>
+<br><br><br>
 ## À propos de moi 📖
 
 - 👤 **Prénom :** Sila
@@ -30,17 +31,17 @@ Mon expérience au sein du B.U.T. Informatique a été très enrichissante et di
 
 Le BUT informatique se construit autour de 6 compétences professionnelles essentielles sur les 3 ans :
 <br><br>
-**Réaliser un développement d’application :** ⭐⭐⭐⭐⭐
+- **Réaliser un développement d’application :** ⭐⭐⭐⭐⭐
 <br><br>
-**Optimiser des applications informatiques :** ⭐⭐⭐⭐
+- **Optimiser des applications informatiques :** ⭐⭐⭐⭐
 <br><br>
-**Administrer des systèmes informatiques communicants complexes :** ⭐⭐⭐
+- **Administrer des systèmes informatiques communicants complexes :** ⭐⭐⭐
 <br><br>
-**Gérer des données et l’information :** ⭐⭐⭐⭐
+- **Gérer des données et l’information :** ⭐⭐⭐⭐
 <br><br>
-**Conduire un projet :** ⭐⭐⭐⭐
+- **Conduire un projet :** ⭐⭐⭐⭐
 <br><br>
-**Collaborer au sein d’une une équipe informatique :** ⭐⭐⭐⭐
+- **Collaborer au sein d’une une équipe informatique :** ⭐⭐⭐⭐
 <br><br>
 
 ## Conception Portfolio 💻
